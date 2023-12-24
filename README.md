@@ -9,6 +9,9 @@ We made it in the format of an interactive dashboard using PowerBI.
 For further improvement, we tried the country's economy based on the particular value of the CPI index.
 
 Below are some attached ScreenShots to show the dashboard
+![image](https://github.com/Rahul28428/Real-Time-Inflation-Index-Dashboard/assets/75801800/5d9661a8-952d-4f29-afce-dacafc2521d1)
+![image](https://github.com/Rahul28428/Real-Time-Inflation-Index-Dashboard/assets/75801800/8e2d5176-0b32-4c87-a970-37278a0af5b9)
+
 
 ## Methodology
 
@@ -18,7 +21,7 @@ We are forming the table in a CSV format and loading it into a dashboard format 
 
 Showed the visualization in the format of the line chart, bar chart, column chart, and scatter plots
 
-##Analysis of Results
+## Analysis of Results
 
 Taking 2012 as the base year and then performing the inflation, I got a 5% fluctuation from the released initial RBI inflation index.
 
